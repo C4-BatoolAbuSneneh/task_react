@@ -11,7 +11,6 @@ const Home = () => {
         <section>
           <img className="imagelaptop" src="./images/laptop2.png" />
           <span className="dot2"></span>
-
           <p className="p">- منصة رقم واحد تربط بين تاجر تجزئة - </p>
           <h2 className="h2"> تعرف علينا من خلال تجربة</h2>
           <h5 className="h5">ببيع منتاجاتك وزيادة ربحك</h5>
@@ -167,7 +166,7 @@ const Home = () => {
         <h1 className="testimonial">TESTIMONIAL</h1>
         <img className="screen" src="./images/screen.png" />
         <img src="./images/screen.png" />
-        <img className ="screen3" src="./images/screen.png" />
+        <img className="screen3" src="./images/screen.png" />
       </div>
       <h2 className="A0">عداد</h2>
       <div className="section9">
@@ -180,15 +179,11 @@ const Home = () => {
         <button className="nowbutton">جرب الْآن</button>
       </div>
       <div className="section11">
-      <h2 className="B1">تعرف علينا</h2>
-      <h2 className="B2">RFQ</h2>
-      <h2 className="B3">شكاوي</h2>
-      <h2 className="B4">سياسة الخصوصية</h2>
-      <h2 className="B5">الشروط والأحكام</h2>
-
-
-
-
+        <h2 className="B1">تعرف علينا</h2>
+        <h2 className="B2">RFQ</h2>
+        <h2 className="B3">شكاوي</h2>
+        <h2 className="B4">سياسة الخصوصية</h2>
+        <h2 className="B5">الشروط والأحكام</h2>
       </div>
       <div className="footer">
         <footer>

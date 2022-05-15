@@ -15,9 +15,7 @@ const Navigation = () => {
         </Link>
         <a href="/Home/#who" className="whoAreWe">
           {" "}
-          {/* <Link  to="/Home/who"> */}
-            من نحن
-          {/* </Link>{" "} */}
+          من نحن
         </a>
         <Link className="ConnectWithUs" to="/">
           تواصل معنا
@@ -26,15 +24,12 @@ const Navigation = () => {
           الية العمل
         </Link>{" "}
         <a href="/Home/#features" className="features">
-
-       
           ميزاتنا
         </a>
         <Link className="partner" to="/">
           كن شريك
         </Link>
         <span className="dot1"></span>
-
         <Link className="line" to="/Home">
           <MdOutlineMenu />
         </Link>{" "}

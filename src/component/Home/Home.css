@@ -1,7 +1,7 @@
 .homepage {
   overflow-x: hidden;
   overflow-y: hidden;
-    background-color: rgb(8, 235, 216);
+  background-color: rgb(8, 235, 216);
   width: 100%;
   padding-bottom: 3%;
   height: 90%;
@@ -41,7 +41,7 @@
   margin-bottom: 0em;
   overflow-x: hidden;
   overflow-y: hidden;
-  
+
   background-color: rgb(233, 221, 221);
   height: 33em;
 }
@@ -71,7 +71,7 @@ h5 {
   transform: translate(0em, -2em);
   border: 2px solid rgb(8, 235, 216);
 }
-.button:hover{
+.button:hover {
   cursor: pointer;
 }
 .do {
@@ -81,7 +81,7 @@ h5 {
 .p3 {
   transform: translate(-2em, -0.5em);
 }
-.marketed:hover{
+.marketed:hover {
   cursor: pointer;
 }
 .marketed {
@@ -93,7 +93,7 @@ h5 {
   transform: translate(2em, 2em);
   border: 2px solid rgb(8, 235, 216);
 }
-.supplier:hover{
+.supplier:hover {
   cursor: pointer;
 }
 .supplier {
@@ -470,14 +470,13 @@ h5 {
 }
 .footer {
   margin-bottom: 0em;
-  transform: translate(0em,-63em);
+  transform: translate(0em, -63em);
 }
 .section4 {
-
-overflow-x: hidden;
-overflow-y: hidden;
-background-color: rgb(233, 231, 231);
-transform: translate(0em, -58em);
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background-color: rgb(233, 231, 231);
+  transform: translate(0em, -58em);
   height: 500px;
 }
 .images {
@@ -503,13 +502,13 @@ transform: translate(0em, -58em);
 }
 .section6 {
   overflow-x: hidden;
-overflow-y: hidden;
+  overflow-y: hidden;
 
   transform: translate(0em, -45em);
 }
 .section7 {
   overflow-x: hidden;
-overflow-y: hidden;
+  overflow-y: hidden;
 
   transform: translate(0em, -42em);
 }
@@ -669,7 +668,7 @@ overflow-y: hidden;
 .section9 {
   overflow-x: hidden;
   overflow-y: hidden;
-    height: 200px;
+  height: 200px;
   transform: translate(0em, -82em);
   background-color: black;
 }
@@ -691,10 +690,9 @@ overflow-y: hidden;
 .section10 {
   background-color: #000;
   height: 250px;
-  transform: translate(0em,-75em);
+  transform: translate(0em, -75em);
   overflow-x: hidden;
-overflow-y: hidden;
-
+  overflow-y: hidden;
 }
 .nowbutton {
   background-color: orange;
@@ -706,7 +704,7 @@ overflow-y: hidden;
   width: 7%;
   height: 30px;
 }
-.input{
+.input {
   background-color: rgb(82, 82, 82);
   border: 2px solid rgb(82, 82, 82);
   border-radius: 20px;
@@ -716,31 +714,30 @@ overflow-y: hidden;
   height: 25px;
   color: #000;
 }
-.input::placeholder{
+.input::placeholder {
   color: rgb(34, 29, 29);
   float: right;
   padding-right: 15px;
   padding-top: 5px;
 }
-.B1{
-  transform: translate(20em,3em);
-  
-}.B2{
-  transform: translate(10em,1em);
-
-}.B3{
-  transform: translate(0em,-1em);
-
-}.B4{
-  transform: translate(-10em,-3em);
-
-}.B5{
-  transform: translate(-20em,-5em);
-
+.B1 {
+  transform: translate(20em, 3em);
 }
-.section11{
- background-color: rgb(233, 231, 231);
-overflow-x: hidden;
-overflow-y: hidden;
-transform: translate(0em,-65em);
+.B2 {
+  transform: translate(10em, 1em);
+}
+.B3 {
+  transform: translate(0em, -1em);
+}
+.B4 {
+  transform: translate(-10em, -3em);
+}
+.B5 {
+  transform: translate(-20em, -5em);
+}
+.section11 {
+  background-color: rgb(233, 231, 231);
+  overflow-x: hidden;
+  overflow-y: hidden;
+  transform: translate(0em, -65em);
 }
