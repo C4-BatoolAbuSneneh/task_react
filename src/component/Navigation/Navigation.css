@@ -1,0 +1,98 @@
+.logo {
+  font-size: 2em;
+  text-decoration: none;
+  color: black;
+  float: right;
+  padding: 0.2em 0.7em;
+}
+.dot1 {
+  height: 30px;
+  width: 30px;
+  transform: translate(18em,0.5em);
+  background-color: rgb(247, 92, 20);
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.home {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: black;
+  float: right;
+  padding: 0.8em 0.9em;
+}
+.home:hover {
+  text-decoration: orange;
+}
+
+.whoAreWe {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: black;
+  float: right;
+  padding: 0.8em 0.9em;
+}
+.whoAreWe:hover {
+  text-decoration: rgb(230, 114, 6);
+}
+
+.ConnectWithUs {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: black;
+  float: right;
+  padding: 0.8em 0.9em;
+}
+.ConnectWithUs:hover {
+  text-decoration: rgb(230, 114, 6);
+}
+.action {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: black;
+  float: right;
+  padding: 0.8em 0.9em;
+}
+.action:hover {
+  text-decoration: rgb(230, 114, 6);
+}
+.features {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: black;
+  float: right;
+  padding: 0.8em 0.9em;
+}
+.features:hover {
+  text-decoration: rgb(230, 114, 6);
+}
+.partner {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: black;
+  float: right;
+  padding: 0.8em 0.9em;
+}
+.partner:hover {
+  text-decoration: rgb(230, 114, 6);
+}
+.line {
+  font-size: 1.5em;
+  text-decoration: none;
+  color: black;
+  float: left;
+  padding: 0.5em 0.4em;
+}
+.line:hover {
+  text-decoration: rgb(230, 114, 6);
+}
+.user {
+  font-size: 1.2em;
+  text-decoration: none;
+  color: black;
+  float: left;
+  padding: 0.6em 0.4em;
+}
+.user:hover {
+  text-decoration: rgb(230, 114, 6);
+}
